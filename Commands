@@ -7,8 +7,16 @@ git config user.email
 
 git help commit
 
-----------------
+-----------------------------------------------------------------------
 git init
 git add .
+git commit -m "Commit message" //like saving the files
+
+git log
+git status 
 
 
+---------------------------------------------------------------------------
+
+working area > staging > repository
+abc 
