@@ -15,6 +15,9 @@ git commit -m "Commit message" //like saving the files
 git log
 git status 
 git diff //difference between the working copy and the index
+git diff --staged
+git rm sample_3 //removes the 3rd file
+
 
 
 
@@ -22,4 +25,4 @@ git diff //difference between the working copy and the index
 
 working copy > staging > repository
 abc
-def 
+def
