@@ -21,4 +21,5 @@ git diff //difference between the working copy and the index
 ---------------------------------------------------------------------------
 
 working copy > staging > repository
-abc 
+abc
+def 
