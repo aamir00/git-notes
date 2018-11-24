@@ -14,9 +14,11 @@ git commit -m "Commit message" //like saving the files
 
 git log
 git status 
+git diff //difference between the working copy and the index
+
 
 
 ---------------------------------------------------------------------------
 
-working area > staging > repository
+working copy > staging > repository
 abc 
