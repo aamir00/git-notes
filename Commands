@@ -1,12 +1,10 @@
 git config --global user.name="aamir00"
 git config --global user.email="amairkhan.college@gmail.com"
 
-
 git config -l
 git config user.email
 
 git help commit
-
 -----------------------------------------------------------------------
 git init
 git add .
@@ -17,12 +15,15 @@ git status
 git diff //difference between the working copy and the index
 git diff --staged
 git rm sample_3 //removes the 3rd file
+git mv sample_1 sample_1
 
+git commit -am 
+git checkout -- index.html // to reset the index.html
+get reset HEAD index.html // to remove index.html from the stagging area
+git checkout 01e7dba -- index.html
+git remote add git-tutorial https://github.com/aamir00/git-notes.git
 
-
-
----------------------------------------------------------------------------
-
-working copy > staging > repository
+--------------------------------------------------------------------------
+sworking copy > staging > repository
 abc
 def
