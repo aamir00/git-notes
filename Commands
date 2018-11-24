@@ -1,0 +1,14 @@
+git config --global user.name="aamir00"
+git config --global user.email="amairkhan.college@gmail.com"
+
+
+git config -l
+git config user.email
+
+git help commit
+
+----------------
+git init
+git add .
+
+
